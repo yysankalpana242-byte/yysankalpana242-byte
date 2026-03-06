@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Yasintha Sankalpana
 
-<!--
-**yysankalpana242-byte/yysankalpana242-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Undergraduate**  
+🎂 **Age:** 21  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+Hi! I'm **Yasintha Sankalpana**, a passionate **Software Engineering undergraduate** who enjoys learning new technologies and building creative software solutions. I am always interested in improving my programming skills and exploring modern development tools.
+
+---
+
+## 🚀 Interests
+- 💻 Software Development  
+- 📚 Learning New Technologies  
+- 🛠 Building Projects  
+- 🌱 Improving Coding Skills  
+
+---
+
+## 🎯 Goal
+My goal is to grow as a **professional software engineer** and contribute to innovative and impactful software projects.
+
+---
+
+⭐ *Thanks for visiting my profile!*
