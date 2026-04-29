@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yasintha Sankalpana
 
 🎓 **Software Engineering Undergraduate**  
-🎂 **Age:** 21  
+🎂 **Age:** 22  
 
 ---
 
